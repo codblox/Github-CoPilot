@@ -1,0 +1,7 @@
+base_symbol,quote_symbol,spread,hedge_ratio,window,time_stored
+ETHUSDT,ZILUSDT,912.44893588,25412.073,18,Thu Mar  9 06:38:13 2023
+ETHUSDT,ICXUSDT,"  base_symbol quote_symbol      spread  hedge_ratio  window               time_stored
+0     ETHUSDT      ZILUSDT  912.448936    25412.073      18  Thu Mar  9 06:38:13 2023",2956.2,22,Thu Mar  9 06:38:14 2023
+ETHUSDT,CELOUSDT,"  base_symbol quote_symbol                                             spread  hedge_ratio  window               time_stored
+0     ETHUSDT      ZILUSDT                                       912.44893588    25412.073      18  Thu Mar  9 06:38:13 2023
+1     ETHUSDT      ICXUSDT    base_symbol quote_symbol      spread  hedge_...     2956.200      22  Thu Mar  9 06:38:14 2023",737.98,20,Thu Mar  9 06:38:16 2023

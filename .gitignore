@@ -1,0 +1,4 @@
+/.venv
+/closed_trades.csv
+/opened_trades.csv
+/zscore.csv
