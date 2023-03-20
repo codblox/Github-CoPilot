@@ -1,4 +1,6 @@
-Run main.py for generating cointegrated pairs
+Run cointegration_check.py for generating cointegrated pairs
+<br>
+Run main.py for checking cointegrated pairs
 <br>
 Run program_2.py for generating signals
 <br>
